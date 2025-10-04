@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/styled_text.dart';
+import 'package:flutter_application_1/dice_roller_app/styled_text.dart';
 
 final randomizer = Random();
 

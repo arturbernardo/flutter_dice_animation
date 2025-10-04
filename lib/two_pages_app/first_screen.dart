@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/second_screen.dart';
+import 'package:flutter_application_1/two_pages_app/second_screen.dart';
 
 class FirstScreen extends StatelessWidget {
   const FirstScreen({super.key});
