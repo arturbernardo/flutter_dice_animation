@@ -5,14 +5,13 @@ const startAlignment = Alignment.topLeft;
 const endAlignment = Alignment.bottomRight;
 
 class GradientContainer extends StatelessWidget {
-    const GradientContainer(this.color1, this.color2, {required this.child, super.key});
+  const GradientContainer(this.color1, this.color2, {required this.child, super.key});
 
   final Color color1;
   final Color color2;
   
   final StatefulWidget child;
   
-
   @override
   Widget build(context) {
     return Container(
